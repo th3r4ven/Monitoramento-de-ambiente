@@ -1,0 +1,77 @@
+[*] Hardware:RAM | Thresholds :60.0 | Machine Usage: 71.5 | TIME: 27/09/2020 15:47:10
+
+[*] Hardware:Disk | Thresholds :30.0 | Machine Usage: 46.5 | TIME: 27/09/2020 15:47:10
+
+[*] Hardware:Total CPU | Thresholds :5.0 | Machine Usage: 27.7 | TIME: 27/09/2020 15:47:13
+
+[*] Hardware:CPU 1 | Thresholds :5.0 | Machine Usage: 30.9 | TIME: 27/09/2020 15:47:13
+
+[*] Hardware:CPU 2 | Thresholds :5.0 | Machine Usage: 34.3 | TIME: 27/09/2020 15:47:13
+
+[*] Hardware:CPU 3 | Thresholds :5.0 | Machine Usage: 31.2 | TIME: 27/09/2020 15:47:13
+
+[*] Hardware:CPU 4 | Thresholds :5.0 | Machine Usage: 29.8 | TIME: 27/09/2020 15:47:13
+
+[*] Hardware:RAM | Thresholds :60.0 | Machine Usage: 71.9 | TIME: 27/09/2020 15:47:13
+
+[*] Hardware:Disk | Thresholds :30.0 | Machine Usage: 46.5 | TIME: 27/09/2020 15:47:13
+
+[*] Hardware:Total CPU | Thresholds :5.0 | Machine Usage: 8.9 | TIME: 27/09/2020 15:47:16
+
+[*] Hardware:CPU 1 | Thresholds :5.0 | Machine Usage: 8.0 | TIME: 27/09/2020 15:47:16
+
+[*] Hardware:CPU 2 | Thresholds :5.0 | Machine Usage: 5.9 | TIME: 27/09/2020 15:47:16
+
+[*] Hardware:CPU 3 | Thresholds :5.0 | Machine Usage: 7.8 | TIME: 27/09/2020 15:47:16
+
+[*] Hardware:CPU 4 | Thresholds :5.0 | Machine Usage: 5.0 | TIME: 27/09/2020 15:47:16
+
+[*] Hardware:RAM | Thresholds :60.0 | Machine Usage: 71.9 | TIME: 27/09/2020 15:47:16
+
+[*] Hardware:Disk | Thresholds :30.0 | Machine Usage: 46.5 | TIME: 27/09/2020 15:47:16
+
+[*] Hardware:Total CPU | Thresholds :5.0 | Machine Usage: 7.1 | TIME: 27/09/2020 15:47:18
+
+[*] Hardware:CPU 1 | Thresholds :5.0 | Machine Usage: 42.0 | TIME: 27/09/2020 15:47:18
+
+[*] Hardware:CPU 2 | Thresholds :5.0 | Machine Usage: 38.8 | TIME: 27/09/2020 15:47:18
+
+[*] Hardware:CPU 3 | Thresholds :5.0 | Machine Usage: 37.1 | TIME: 27/09/2020 15:47:18
+
+[*] Hardware:CPU 4 | Thresholds :5.0 | Machine Usage: 34.4 | TIME: 27/09/2020 15:47:18
+
+[*] Hardware:RAM | Thresholds :60.0 | Machine Usage: 71.9 | TIME: 27/09/2020 15:47:18
+
+[*] Hardware:Disk | Thresholds :30.0 | Machine Usage: 46.5 | TIME: 27/09/2020 15:47:18
+
+[*] Hardware:Total CPU | Thresholds :5.0 | Machine Usage: 26.3 | TIME: 27/09/2020 15:47:21
+
+[*] Hardware:CPU 1 | Thresholds :5.0 | Machine Usage: 6.0 | TIME: 27/09/2020 15:47:21
+
+[*] Hardware:CPU 2 | Thresholds :5.0 | Machine Usage: 9.1 | TIME: 27/09/2020 15:47:21
+
+[*] Hardware:CPU 3 | Thresholds :5.0 | Machine Usage: 8.3 | TIME: 27/09/2020 15:47:21
+
+[*] Hardware:CPU 4 | Thresholds :5.0 | Machine Usage: 6.2 | TIME: 27/09/2020 15:47:21
+
+[*] Hardware:RAM | Thresholds :60.0 | Machine Usage: 71.9 | TIME: 27/09/2020 15:47:21
+
+[*] Hardware:Disk | Thresholds :30.0 | Machine Usage: 46.5 | TIME: 27/09/2020 15:47:21
+
+[*] Hardware:Total CPU | Thresholds :5.0 | Machine Usage: 5.3 | TIME: 27/09/2020 15:47:23
+
+[*] Hardware:CPU 1 | Thresholds :5.0 | Machine Usage: 5.0 | TIME: 27/09/2020 15:47:23
+
+[*] Hardware:RAM | Thresholds :60.0 | Machine Usage: 71.9 | TIME: 27/09/2020 15:47:23
+
+[*] Hardware:Disk | Thresholds :30.0 | Machine Usage: 46.5 | TIME: 27/09/2020 15:47:23
+
+[*] Hardware:RAM | Thresholds :60.0 | Machine Usage: 71.9 | TIME: 27/09/2020 15:47:26
+
+[*] Hardware:Disk | Thresholds :30.0 | Machine Usage: 46.5 | TIME: 27/09/2020 15:47:26
+
+[*] Hardware:CPU 1 | Thresholds :5.0 | Machine Usage: 6.9 | TIME: 27/09/2020 15:47:28
+
+[*] Hardware:RAM | Thresholds :60.0 | Machine Usage: 71.9 | TIME: 27/09/2020 15:47:28
+
+[*] Hardware:Disk | Thresholds :30.0 | Machine Usage: 46.5 | TIME: 27/09/2020 15:47:28
